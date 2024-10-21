@@ -2,7 +2,9 @@
 layout: page
 title: 嚴選服務
 permalink: /product/
-published: false
+published: true
+#false
+#
 ---
 
 <div class="market-container">
@@ -14,7 +16,7 @@ published: false
     </div>
   </a>
 
-  <!-- 茶品賣場連結 -->
+  <!-- 茶品賣場連結
   <a class="market-item" href="https://shopee.tw/your-shop-url2" target="_blank" class="market-link">
     <img src="{{ '/assets/img/tea.png' | relative_url }}" alt="茶品賣場" style="max-width: 200px; height: auto;">
     <div class="overlay">
@@ -22,7 +24,7 @@ published: false
     </div>
   </a>
 </div>
-
+-->
 <!-- 頁面獨立的配置 -->
 <style>
 .market-container {
