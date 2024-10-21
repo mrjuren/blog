@@ -9,10 +9,12 @@ tags: [blog, jekyll, gitpage]
 published: true
 ---
 
+<!--
+post 圖片
 <div style="float: right; margin-left: 15px;">
   <img src="https://example.com/your-image.jpg" alt="Post Image" style="max-width: 200px; height: auto;">
 </div>
-
+-->
 ## 轉變的理由
 
 長期以來，對於 WordPress 的使用中發現，始終期望能夠專注於寫作才是根本。隨著影像與文字等多媒體方式創造所造就的各種內容媒體的林立，最終仍然少有完全能夠讓人專注於特定經營的服務項目。雖說 GitPage 已有些年了，至今才真正的嘗試著使用，也重拾對於 Ruby 的好奇，踏入此領域。
