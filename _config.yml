@@ -27,8 +27,8 @@ url: "https://dev.rinyue.com" # the base hostname & protocol for your site, e.g.
 # twitter_username: jekyllrb
 # github_username:
 
-# Build settings
-theme: minima
+# Build settings theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
